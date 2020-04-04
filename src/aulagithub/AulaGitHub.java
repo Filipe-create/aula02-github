@@ -7,6 +7,6 @@ public class AulaGitHub {
         
         System.out.println("Boa noite!");
         System.out.println("Boa tarde!");
+        System.out.println("Boa dia!");
     }
-    
 }
